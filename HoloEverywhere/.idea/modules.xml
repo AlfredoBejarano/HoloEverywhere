@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ATableView/ATableView.iml" filepath="$PROJECT_DIR$/../ATableView/ATableView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HoloEverywhere.iml" filepath="$PROJECT_DIR$/HoloEverywhere.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HoloEverywhere-preferences/HoloEverywhere-preferences.iml" filepath="$PROJECT_DIR$/../HoloEverywhere-preferences/HoloEverywhere-preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HorizontalVariableListView/HorizontalVariableListView.iml" filepath="$PROJECT_DIR$/../HorizontalVariableListView/HorizontalVariableListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Mercadolibre/Mercadolibre.iml" filepath="$PROJECT_DIR$/../../Mercadolibre/Mercadolibre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NineOldAndroids/NineOldAndroids.iml" filepath="$PROJECT_DIR$/../NineOldAndroids/NineOldAndroids.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ShowcaseView/ShowCaseView.iml" filepath="$PROJECT_DIR$/../ShowcaseView/ShowCaseView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ViewPagerIndicator/ViewPagerIndicator.iml" filepath="$PROJECT_DIR$/../ViewPagerIndicator/ViewPagerIndicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../actionbarsherlock/actionbarsherlock.iml" filepath="$PROJECT_DIR$/../actionbarsherlock/actionbarsherlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../classifieds-tucarro_android.iml" filepath="$PROJECT_DIR$/../../classifieds-tucarro_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../libraries.iml" filepath="$PROJECT_DIR$/../libraries.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="facebook-">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Mercadolibre/build/intermediates/exploded-aar/facebook/libs/bolts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Mercadolibre/build/intermediates/exploded-aar/facebook/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Mercadolibre/build/intermediates/exploded-aar/facebook/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

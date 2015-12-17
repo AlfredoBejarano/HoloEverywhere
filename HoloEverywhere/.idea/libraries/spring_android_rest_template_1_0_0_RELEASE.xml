@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="spring-android-rest-template-1.0.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-rest-template/1.0.0.RELEASE/154e9b979594dc064eaa2c07ca1a045634537cf4/spring-android-rest-template-1.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-rest-template/1.0.0.RELEASE/b7a028c5a74961059630e6c80ceee69d0f9a585d/spring-android-rest-template-1.0.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
